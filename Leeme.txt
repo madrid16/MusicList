@@ -1,0 +1,1 @@
+Aplicación dirigida al negocio de la música. Básicamente queremos emular un toca disco de un  Pub,  conectado a los dispositivos móviles de los clientes.
